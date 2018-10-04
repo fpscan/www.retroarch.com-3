@@ -19,7 +19,7 @@
             return confirm("This build is intended for Windows XP specifically, and has a reduced featureset. If you're using a newer version of Windows, download the Windows 10/8/7 build instead.");
           }
           function showNSPConfirmation() {
-            return confirm("WHEN USING THIS, YOU NEED TO BE PREPARED THAT A REAL RISK EXISTS THAT YOU MIGHT BE BANNED. USE OF THIS FILE IS THEREFORE DONE AT YOUR SOLE RISK AND IS WITHOUT WARRANTIES OF ANY KIND BY US, EXPRESSED, IMPLIED OR OTHERWISE INCLUDING WARRANTIES OF TITLE, FITNESS FOR PURPOSE, MERCHANTABILITY OR NON-INFRINGEMENT. Under no circumstances are we liable for any damages arising from the usage of this file on your Nintendo Switch.");
+            return confirm("WHEN USING THIS, YOU NEED TO BE PREPARED THAT A REAL RISK EXISTS THAT YOU MIGHT BE BANNED [FROM NINTENDO'S ONLINE SERVICES]. USE OF THIS FILE IS THEREFORE DONE AT YOUR SOLE RISK AND IS WITHOUT WARRANTIES OF ANY KIND BY US, EXPRESSED, IMPLIED OR OTHERWISE INCLUDING WARRANTIES OF TITLE, FITNESS FOR PURPOSE, MERCHANTABILITY OR NON-INFRINGEMENT. Under no circumstances are we liable for any damages arising from the usage of this file on your Nintendo Switch.");
           }
         </script>
     </head>
