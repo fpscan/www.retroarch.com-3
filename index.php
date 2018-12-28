@@ -91,7 +91,7 @@
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <h4>Partners</h4>
-                        <a href="https://bliss-box.net/store/4-play-basic-kit-18-cables-p106145008"><img class="alignnone size-medium wp-image-46422" src="images/newLogo-300x96.png" alt="" width="300" height="96" /></a>
+                        <a href="https://bliss-box.net/store/4-play-basic-kit-18-cables-p106145008"><img class="alignnone size-medium wp-image-46422" src="images/blissbox.png" alt="blissbox" width="300"/></a>
                     </div>
                 </div>
             </div>
