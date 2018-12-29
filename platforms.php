@@ -159,6 +159,13 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
+                    <img src="images/ps2.png">
+                    <h4>PlayStation 2</h4>
+                    <p>Coming soon</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="platform">
                     <img src="images/ps3.png">
                     <h4>PlayStation 3</h4>
                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) [Xbins]</a>
