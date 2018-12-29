@@ -92,6 +92,13 @@
                  <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/xbox/xbox/RetroArch.zip">Download [Xbins]</a>
                </div>
             </div>
+            <div class="col-md-3 col-sm-6">
+               <div class="platform">
+                 <img src="images/xbone.png">
+                 <h4>Xbox One</h4>
+                <p>Coming soon</p>
+               </div>
+            </div>
         </div>
         <div class="row platforms">
             <div class="col-md-3 col-sm-6">
