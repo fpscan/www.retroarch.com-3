@@ -22,41 +22,41 @@
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/windows.png">
-                    <h4>Windows 10 / 8 / 7 / Vista</h4>
+                    <h4>Windows 10 / 8 / 7</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch-<?php echo $version; ?>-x64-setup.exe" title="If you are unsure which version to install for your Windows computer, chances are you will want to pick this one. Use this if you are running a 64bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation.">Installer (64bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch-<?php echo $version; ?>-x86-setup.exe" title="If you are unsure which version to install for your Windows computer, chances are you will want to pick this one. Use this if you are running a 32bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation.">Installer (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a 64bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer.">Download (64bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a 32bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer.">Download (32bit)</a>
-                    <a href="https://docs.libretro.com/compilation/windows/">Compilation instructions (Windows Vista and later - MinGW-W64 MSYS2)</a>
+                    <a href="https://docs.libretro.com/compilation/windows/">Compilation instructions (MinGW-W64 MSYS2)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/windowsxp.png">
-                    <h4>Windows XP</h4>
+                    <h4>Windows Vista / XP</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch-<?php echo $version; ?>-msvc2010-x86-setup.exe" title="Use this is if you are running a computer with Windows XP. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for Vista and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version." onclick="return showXPConfirmation()">Installer (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86_64/RetroArch-<?php echo $version; ?>-msvc2010-x64-setup.exe" title="Use this is if you are running a computer with Windows XP x64 Edition. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for Vista and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version." onclick="return showXPConfirmation()">Installer (64bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows XP. NOTE: While this version will also work for Vista and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version." onclick="return showXPConfirmation()">Download (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2010/x86_64/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows XP. NOTE: While this version will also work for Vista and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version." onclick="return showXPConfirmation()">Download (64bit)</a>
-                    <a href="https://docs.libretro.com/compilation/windowsXP/">Compilation instructions (Windows XP - Visual Studio 2010)</a>
+                    <a href="https://docs.libretro.com/compilation/windowsXP/">Compilation instructions (Visual Studio 2010)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/windows98.png">
-                    <h4>Windows 2000 / ME / 98 SE</h4>
+                    <h4>Windows 2000 / ME / 98SE</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2005/x86/RetroArch-<?php echo $version; ?>-msvc2005-x86-setup.exe" title="Use this is if you are running a computer with Windows 98 Second Edition, Windows Millenium Edition, and/or Windows 2000. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for XP and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Installer</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2005/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows 98 Second Edition, Windows Millenium Edition, and/or Windows 2000. NOTE: While this version will also work for XP and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Download</a>
-                    <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Windows 98SE/2000 - Visual Studio 2005)</a>
+                    <a href="https://buildbot.libretro.com/docs/compilation/windows98/">Compilation instructions (Visual Studio 2005)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/Win_logo_1992.png">
-                    <h4>Windows 98 / Windows 95</h4>
+                    <h4>Windows 98 / 95</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2003/x86/RetroArch-<?php echo $version; ?>-msvc2003-x86-setup.exe" title="Use this is if you are running a computer with Windows 95 or Windows 98 First Edition. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation. NOTE: While this version will also work for 98SE and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Installer</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2003/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a computer running Windows 95 or Windows 98 First Edition. NOTE: While this version will also work for 98SE and up, we highly recommend you use the other Windows version instead, as your core choice will be more limited with this version.">Download</a>
-                    <a href="https://docs.libretro.com/compilation/windows95-msvc-cmdline/">Compilation instructions (Windows 95/Windows 98 - Visual Studio 2003)</a>
+                    <a href="https://docs.libretro.com/compilation/windows95-msvc-cmdline/">Compilation instructions (Visual Studio 2003)</a>
                 </div>
             </div>
         </div>
