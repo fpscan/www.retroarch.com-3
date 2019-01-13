@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Installing on Linux</h1>
-                <p>To install RetroArch on Linux, we recommand using your distribution default package manager.</p>
+                <p>To install RetroArch on Linux, we recommend using your distribution default package manager.</p>
             </div>
         </div>
     </div>
