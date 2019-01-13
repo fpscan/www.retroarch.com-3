@@ -14,9 +14,9 @@
         <h2>Ubuntu</h2>
         <p>These instructions will install RetroArch AND all Libretro Cores (they are all in *.deb packages, so you don't need the Core Updater). If you want just a few Libretro Cores, search them using Synaptic or specifying them in apt-get (i.e. libretro-snes9x for example).</p>
         <p><a href="https://launchpad.net/~libretro/+archive/ubuntu/stable">Stable version</a> (RetroArch stable version):</p>
-        <pre>sudo add-apt-repository ppa:libretro/stable && sudo apt-get update && sudo apt-get install retroarch libretro-*</pre>
+        <pre>sudo add-apt-repository ppa:libretro/stable && sudo apt-get update && sudo apt-get install retroarch* libretro-*</pre>
         <p><a href="https://launchpad.net/~libretro/+archive/ubuntu/testing">Testing version</a> (RetroArch development version (Git) and there are more Libretro Cores here, all them updated daily):</p>
-        <pre>sudo add-apt-repository ppa:libretro/testing && sudo apt-get update && sudo apt-get install retroarch libretro-*</pre>
+        <pre>sudo add-apt-repository ppa:libretro/testing && sudo apt-get update && sudo apt-get install retroarch* libretro-*</pre>
         <h2>Arch Linux</h2>
         <p>Stable version:</p>
         <pre>sudo pacman -Sy retroarch</pre>
@@ -31,5 +31,7 @@
         <h2>Snap</h2>
         <p><a href="https://snapcraft.io/retroarch">RetroArch on Snapcraft</a>:</p>
         <pre>sudo snap install retroarch</pre>
+        <p>You may also need to run the following command to allow RetroArch to access your gamepads:</p>
+        <pre>sudo snap connect retroarch:raw-usb && sudo snap connect retroarch:joystick</pre>
     </div>
 </div>
