@@ -1,4 +1,4 @@
- <?php $version = "1.7.5"; ?>
+ <?php $version = "1.7.6"; ?>
 
 <div id="welcome">
     <div class="container">
@@ -168,7 +168,7 @@
                 <div class="platform">
                     <img src="images/ps2.png">
                     <h4>PlayStation 2</h4>
-                    <p>Coming soon</p>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps2/RetroArch_elf.7z">Download</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
