@@ -198,6 +198,7 @@
                     <h4>Switch</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/switch/libnx/RetroArch.7z" title="Do NOT use SD cards formatted with exFAT, and always exit from 'Quit retroArch'">Download</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/switch/libnx/RetroArch.nsp" title="Do NOT use SD cards formatted with exFAT, and always exit from 'Quit retroArch'" onclick="return showNSPConfirmation()">Download (NSP)</a>
+                    <a href="https://docs.libretro.com/compilation/switch-libnx/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
