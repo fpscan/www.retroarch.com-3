@@ -169,6 +169,7 @@
                     <img src="images/ps2.png">
                     <h4>PlayStation 2</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/playstation/ps2/RetroArch_elf.7z">Download</a>
+                    <a href="https://docs.libretro.com/compilation/ps2/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
