@@ -181,17 +181,15 @@
                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE) [Xbins]</a>
                 </div>
             </div>
-            <!--
-            <div class="col-md-3 col-sm-6">
-                <div class="platform">
-                    <img src="images/ps2.png">
-                    <h4>PS2</h4>
-                    <a href="#">Currently unavailable (N/A)</a>
-                </div>
-            </div>
-            -->
         </div>
         <div class="row">
+            <div class="col-md-3 col-sm-6">
+                <div class="platform">
+                    <img src="images/ps4.png">
+                    <h4>PlayStation 4</h4>
+                    <p>Coming soon</p>
+                </div>
+            </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/nsw.png">
@@ -220,6 +218,8 @@
                     <a href="https://docs.libretro.com/compilation/wii/">Compilation instructions</a>
                 </div>
             </div>
+        </div>
+        <div class="row platforms">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/gc.png">
@@ -229,8 +229,6 @@
                     <a href="https://docs.libretro.com/compilation/gamecube/">Compilation instructions</a>
                 </div>
             </div>
-        </div>
-        <div class="row platforms">
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
                     <img src="images/3ds.png">
