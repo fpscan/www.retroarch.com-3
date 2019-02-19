@@ -75,9 +75,8 @@
                         <h4>Developer Links</h4>
                         <ul>
                             <li><a href="https://docs.libretro.com/">Documentation</a></li>
-                            <li><a href="https://wiki.libretro.com/index.php?title=Main_Page">Wiki</a></li>
-                            <li><a href="https://www.libretro.com/index.php/develop/">Develop</a></li>
-                            <li><a href="https://www.libretro.com/index.php/api/">Libretro API</a></li>
+                            <li><a href="https://docs.libretro.com/tech/developing-cores/">Core Development</a></li>
+                            <li><a href="https://docs.libretro.com/specs/api/">Libretro API</a></li>
                         </ul>
                     </div>
                     <div class="col-md-4 col-sm-6 social">
