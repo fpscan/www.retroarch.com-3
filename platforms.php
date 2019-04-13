@@ -111,6 +111,7 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch.apk">Download</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/android/RetroArch_aarch64.apk">Download (64bit)</a>
                     <a href="#">Installation instructions</a>
+                    <a href="https://docs.libretro.com/development/retroarch/compilation/android/">Compilation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
