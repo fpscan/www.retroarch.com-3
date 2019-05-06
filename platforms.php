@@ -1,4 +1,4 @@
- <?php $version = "1.7.6"; ?>
+ <?php $version = "1.7.7"; ?>
 
 <div id="welcome">
     <div class="container">
