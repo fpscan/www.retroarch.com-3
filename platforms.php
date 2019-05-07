@@ -29,6 +29,7 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a 32bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer.">Download (32bit)</a>
                     <a href="https://docs.libretro.com/development/retroarch/compilation/windows/">Compilation instructions (MinGW-W64 MSYS2)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2017-uwp/x64/RetroArch-msvc2017-UWP_1.7.1_alpha_x64.appx" title="This is a temporary pre-alpha version of RetroArch for UWP/Xbox One! Please be aware that whatever you see might not be reflective of the finished product later on. Its purpose is to allow people to test for issues as much as possible and to report them back.">Download (UWP, 64bit, Pre-alpha)</a>
+                 <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2017-uwp/x64/RetroArch-msvc2017-UWP_1.7.1_alpha_x64.cer" title="You need to install this certificate on your Windows computer to be able to install RetroArch UWP on your system. You need to assign the certificate to 'Trusted Root Key Authenticators' or something similar.">UWP Certificate (UWP, 64bit, Pre-alpha)</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
