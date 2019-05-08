@@ -98,6 +98,7 @@
                <div class="platform">
                  <img src="images/xbone.png">
                  <h4>Xbox One</h4>
+                 <a href="https://buildbot.libretro.com/stable/1.7.7/windows-msvc2017-uwp/x64/Microsoft.VCLibs.x64.14.00.appx">Microsoft Visual C++ 2015 UWP Runtime Package</a>
                  <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2017-uwp/x64/RetroArch-msvc2017-UWP_1.7.1_alpha_x64.appx" title="This is a temporary pre-alpha version of RetroArch for UWP/Xbox One! Please be aware that whatever you see might not be reflective of the finished product later on. Its purpose is to allow people to test for issues as much as possible and to report them back.">Download (Pre-alpha)</a>
                </div>
             </div>
