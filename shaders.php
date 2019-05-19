@@ -38,9 +38,9 @@
         <h2>Shader languages and shader presets</h2>
         <p>Shaders are small programs, and they are written in specific programming languages. RetroArch supports 3 of these languages:</p>
         <ul>
-            <li><b>CG:</b> the prefered format, when available on your platform</li>
-            <li><b>GLSL:</b> these shaders are working on a wide range of platforms including phones and tablets</li>
-            <li><b>Slang:</b> shaders compatible with the new Vulkan renderer</li>
+            <li><b>CG:</b> Old, deprecated format. Might not be available if RetroArch is built without Cg runtime support.</li>
+            <li><b>GLSL:</b> Shader format available to OpenGL. Wide range of platforms including phones and tablets.</li>
+            <li><b>Slang:</b> New and recommended shader format, when available. Compatible with Vulkan, Direct3D 10/11/12, OpenGL Core, WiiU and Metal renderers.</li>
         </ul>
         <p>Depending on your platform and the way you have configured RetroArch, you need to use one of these shader types.</p>
         <p>RetroArch is also able to stack these shaders to create a combined effect. These complex effects are saved with a special extension:</p>
