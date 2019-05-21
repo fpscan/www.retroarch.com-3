@@ -68,7 +68,7 @@
                <div class="platform">
                    <img src="images/linux.png">
                    <h4>Linux</h4>
-                   <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
+                   <a href="https://youtu.be/hu-TW02bhhY?t=95">Installation video</a>
                    <a href="index.php?page=linux-instructions">Installation instructions</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/ubuntu/">Compilation instructions (Ubuntu)</a>
                </div>
