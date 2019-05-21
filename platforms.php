@@ -133,7 +133,7 @@
                 <div class="platform">
                     <img src="images/apple-metal.png">
                     <h4>Apple macOS High Sierra <br>(and later) with Metal2</h4>
-                    <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
+                    <a href="https://youtu.be/hu-TW02bhhY?t=182">Installation video</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_Metal.dmg" title="Use this if you are using a Mac with at least macOS 10.13 (High Sierra) installed or later.">Download</a>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later.">Download (Intel 32bit)</a></s>
                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel 32bit) (with Cg support - requires Cg installed)</a></s>
                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
-                   <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
+                   <a href="https://youtu.be/hu-TW02bhhY?t=182">Installation video</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/osx/">Compilation instructions (Intel)</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                    <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
