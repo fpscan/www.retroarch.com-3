@@ -27,6 +27,7 @@
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch-<?php echo $version; ?>-x86-setup.exe" title="If you are unsure which version to install for your Windows computer, chances are you will want to pick this one. Use this if you are running a 32bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer. This is a graphical installer. If you already have RetroArch installed, this installer will simply upgrade your existing installation.">Installer (32bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86_64/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a 64bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer.">Download (64bit)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows/x86/RetroArch.7z" title="The same as the installer version, except packaged inside a 7zip file, in case you'd like to manually update or install RetroArch somewhere. Use this if you are running a 32bit version of Windows Vista, Windows 7, Windows 8, Windows 8.1, or Windows 10 on your computer.">Download (32bit)</a>
+                    <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
                     <a href="https://docs.libretro.com/development/retroarch/compilation/windows/">Compilation instructions (MinGW-W64 MSYS2)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2017-uwp/x64/RetroArch-msvc2017-UWP_<?php echo $version; ?>_alpha_x64.appx" title="This is a temporary pre-alpha version of RetroArch for UWP/Xbox One! Please be aware that whatever you see might not be reflective of the finished product later on. Its purpose is to allow people to test for issues as much as possible and to report them back.">Download (UWP, 64bit, Pre-alpha)</a>
                  <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/windows-msvc2017-uwp/x64/RetroArch-msvc2017-UWP_<?php echo $version; ?>_alpha_x64.cer" title="You need to install this certificate on your Windows computer to be able to install RetroArch UWP on your system. You need to assign the certificate to 'Trusted Root Key Authenticators' or something similar.">UWP Certificate (UWP, 64bit, Pre-alpha)</a>
@@ -67,6 +68,7 @@
                <div class="platform">
                    <img src="images/linux.png">
                    <h4>Linux</h4>
+                   <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
                    <a href="index.php?page=linux-instructions">Installation instructions</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/ubuntu/">Compilation instructions (Ubuntu)</a>
                </div>
@@ -131,6 +133,7 @@
                 <div class="platform">
                     <img src="images/apple-metal.png">
                     <h4>Apple macOS High Sierra <br>(and later) with Metal2</h4>
+                    <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86_64/RetroArch_Metal.dmg" title="Use this if you are using a Mac with at least macOS 10.13 (High Sierra) installed or later.">Download</a>
                 </div>
             </div>
@@ -143,6 +146,7 @@
                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later.">Download (Intel 32bit)</a></s>
                    <s><a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/x86/RetroArch_CG.dmg" title="Use this if you are using a 32bit Mac with at least MacOS X 10.6 installed or later. This build requires Nvidia Cg installed, and will use it. If in doubt, use the other one.">Download (Intel 32bit) (with Cg support - requires Cg installed)</a></s>
                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/osx/ppc/RetroArch.zip" title="Use this if you are using a PowerMac/Powerbook with MacOS X 10.5 installed.">Download (PowerPC)</a>
+                   <a href="https://www.youtube.com/watch?v=hu-TW02bhhY">Installation video</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/osx/">Compilation instructions (Intel)</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/osxppc/">Compilation instructions (PowerPC)</a>
                    <p>Note: OSX version for x86 32bit will return at a later point in time. </p>
