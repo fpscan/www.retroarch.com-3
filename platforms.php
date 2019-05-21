@@ -199,6 +199,7 @@
                     <img src="images/nsw.png">
                     <h4>Switch</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/switch/libnx/RetroArch.7z" title="Do NOT use SD cards formatted with exFAT, and always exit from 'Quit retroArch'">Download</a>
+                    <a href="https://www.youtube.com/watch?v=8onZ4H8h3iE">Installation video</a>
                     <a href="https://docs.libretro.com/development/retroarch/compilation/switch-libnx/">Compilation instructions</a>
                 </div>
             </div>
@@ -238,7 +239,7 @@
                     <h4>3DS</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_3dsx.7z">Download (3dsx)</a>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/nintendo/3ds/RetroArch_cia.7z">Download (cia)</a>
-                    <a href="#">Installation instructions</a>
+                    <a href="https://www.youtube.com/watch?v=4TnjFE9t1a4">Installation video</a>
                     <a href="https://docs.libretro.com/development/retroarch/compilation/3ds/">Compilation instructions</a>
                 </div>
             </div>
