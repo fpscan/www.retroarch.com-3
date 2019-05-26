@@ -22,13 +22,6 @@
             return confirm("WHEN USING THIS, YOU NEED TO BE PREPARED THAT A REAL RISK EXISTS THAT YOU MIGHT BE BANNED [FROM NINTENDO'S ONLINE SERVICES]. USE OF THIS FILE IS THEREFORE DONE AT YOUR SOLE RISK AND IS WITHOUT WARRANTIES OF ANY KIND BY US, EXPRESSED, IMPLIED OR OTHERWISE INCLUDING WARRANTIES OF TITLE, FITNESS FOR PURPOSE, MERCHANTABILITY OR NON-INFRINGEMENT. Under no circumstances are we liable for any damages arising from the usage of this file on your Nintendo Switch.");
           }
         </script>
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-3828815317025067",
-          enable_page_level_ads: true
-     });
-</script>
     </head>
     <body>
         <div class="container">
