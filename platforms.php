@@ -186,7 +186,7 @@
                     <h4>PlayStation 3</h4>
                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.CEX.PS3.pkg">Download (CEX) [Xbins]</a>
                     <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.DEX.PS3.pkg">Download (DEX) [Xbins]</a>
-                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE) [Xbins]
+                    <a href="https://xbins.org/libretro/stable/<?php echo $version; ?>/playstation/ps3/RetroArch.PS3.ODE.PS3.iso">Download (ODE) [Xbins]</a>
                     <a href="https://youtu.be/8O-jcykRX6w">Installation video</a></a>
                     <a href="https://docs.libretro.com/guides/install-ps3/">Installation instructions</a>
                 </div>
