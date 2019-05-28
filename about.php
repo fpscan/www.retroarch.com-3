@@ -214,24 +214,6 @@
                     </div>
                 </div>
 
-                 <div class="item">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="embed-responsive embed-responsive-16by9">
-                                <img src="images/redream.png">
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <h2>Redream</h2>
-                            <p>Redream is a 'work in progress' Sega Dreamcast emulator.</p>
-                            <p>Core available now for Windows and Linux. Version for macOS will be released at a later date.</p>
-                            <p></p>
-                            <p>For more information on Redream, visit the author's website <a href="http://redream.io/">here</a>.</p>
-                            <p>See also our in-depth article <a href="https://www.libretro.com/index.php/new-core-redream-windowslinux/">here</a>.</p>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-6">
