@@ -338,7 +338,7 @@
 <div id="tutorial">
     <div class="container">
 
-        <h1>Tutorial Videos</h1>
+        <h1>User Guides</h1>
 
         <div class="row">
 
@@ -369,6 +369,41 @@
             <div class="col-md-4 col-sm-6">
                 <div class="embed-responsive embed-responsive-16by9 video">
                     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LWiyzXWL4sg" frameborder="0" allowfullscreen></iframe>
+                </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://youtube.com/embed/bRNbA-4wuSc" frameborder="0" allowfullscreen></iframe>
+                </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xDFipsbsd2Q" frameborder="0" allowfullscreen></iframe>
+                </div>
+
+        <h1>Developer Guides</h1>
+
+        <div class="row">
+
+            <div class="col-md-4 col-sm-6">
+                <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OaYvc3y3VLI" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fPO-9jescmo" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jrrssHG_9uo" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6">
+                <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Xva8czWtslo" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
 
