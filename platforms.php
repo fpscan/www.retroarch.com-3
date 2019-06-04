@@ -69,7 +69,7 @@
                    <img src="images/linux.png">
                    <h4>Linux</h4>
                    <a href="https://youtu.be/hu-TW02bhhY?t=95">Installation video</a>
-                   <a href="index.php?page=linux-instructions">Installation instructions</a>
+                   <a href="index.php?page=linux-instructions" title="This page includes instructions for installing from the official PPAs, distro package managers and universal Snap and Flatpak packages.">Installation instructions</a>
                    <a href="https://docs.libretro.com/development/retroarch/compilation/ubuntu/">Compilation instructions (Ubuntu)</a>
                </div>
             </div>
