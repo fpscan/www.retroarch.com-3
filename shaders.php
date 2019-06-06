@@ -87,13 +87,6 @@
                     <source src="videos/config-shader.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video> 
-        <div class="col-md-6">
-                <h2>Watch Quick Demonstration of Shaders & Overlays</h2>
-                <p>RetroArch is shipped with a lot of Shaders and Overlays. There is an overwhelming array of them and we can't show all of them on this video.</p>
-            </div>
-                        <div class="col-md-4 col-sm-6">
-                <div class="embed-responsive embed-responsive-16by9 video">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bRNbA-4wuSc" frameborder="0" allowfullscreen></iframe>
         </div>
             </div>
         </div>
