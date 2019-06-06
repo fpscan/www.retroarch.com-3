@@ -45,18 +45,17 @@
                 </div>
                 <div id="navbar" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li <?php if ($_GET['page'] != 'platforms' && $_GET['page'] != 'donate' && $_GET['page'] != 'faq') { echo 'class="active"'; } ?>><a href="index.php">About</a></li>
+                        <li <?php if ($_GET['page'] != 'platforms' && $_GET['page'] != 'donate' && $_GET['page'] != 'faq' && $_GET['page'] != 'interface' && $_GET['page'] != 'netplay' && $_GET['page'] != 'discord') { echo 'class="active"'; } ?>></li>
                         <li><a href="https://www.libretro.com/index.php/category/blog/">News</a></li>
                         <li <?php if ($_GET['page'] == 'platforms') { echo 'class="active"'; } ?>><a href="?page=platforms">Download</a></li>
                         <li <?php if ($_GET['page'] == 'faq') { echo 'class="active"'; } ?>><a href="?page=faq">FAQ</a></li>
-                        <li><a href="http://db.libretro.com/">Database</a></li>
+                        <li <?php if ($_GET['page'] == 'interface') { echo 'class="active"'; } ?>><a href="?page=interface">Interface</a></li>
+                        <li <?php if ($_GET['page'] == 'netplay') { echo 'class="active"'; } ?>><a href="?page=netplay">Netplay</a></li>
+                        <li <?php if ($_GET['page'] == 'discord') { echo 'class="active"'; } ?>><a href="?page=discord">Discord</a></li>
                         <li><a href="https://forums.libretro.com/">Forums</a></li>
-                        <li><a href="https://twitter.com/libretro">Twitter</a></li>
                         <li><a href="https://www.youtube.com/user/Libretro/">Youtube</a></li>
                         <li><a href="https://docs.libretro.com/">Docs</a></li>
-                        <li><a href="https://web.libretro.com/">Web Player</a></li>
                         <li><a href="https://forums.libretro.com/c/bounty-discussion">Bounties</a></li>
-                        <li><a href="https://discord.gg/C4Huaca">Discord</a></li>
                         <li <?php if ($_GET['page'] == 'donate') { echo 'class="active"'; } ?>><a href="index.php?page=donate">Donate</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
