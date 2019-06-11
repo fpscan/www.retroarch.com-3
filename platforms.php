@@ -125,8 +125,7 @@
                 <div class="platform">
                     <img src="images/ios.png">
                     <h4>iOS</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios/RetroArch.zip">Download</a>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios9/RetroArch.zip">Download (iOS9)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/apple/ios/RetroArch.ipa">Download</a>
                     <a href="#">Installation instructions</a>
                     <a href="https://docs.libretro.com/development/retroarch/compilation/ios/">Compilation instructions</a>
                 </div>
