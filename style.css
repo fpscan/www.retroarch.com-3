@@ -181,10 +181,6 @@ h1 {
 #features .item.recording {
     background-color: #6441a4;
 }
-#features .item.latest-youtube {
-    background-color: #ef0707;
-}
-
 
 @media (min-width: 768px) {
     #features .item.interface {
@@ -226,9 +222,6 @@ h1 {
     #features .item.recording {
         background-image: url(images/recording.png);
     }
-    #features .item.latest-youtube {
-        background-image: url(https://img.youtube.com/vi/8rMvf3tfjFk/0.jpg);
-    }    
 }
 
 @media (min-width: 768px) {
