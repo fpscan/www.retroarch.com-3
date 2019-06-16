@@ -34,7 +34,6 @@
                 <li data-target="#features-carousel" data-slide-to="7"></li>
                 <li data-target="#features-carousel" data-slide-to="8"></li>
                 <li data-target="#features-carousel" data-slide-to="9"></li>
-                <li data-target="#features-carousel" data-slide-to="10"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -155,17 +154,6 @@
                             <p>And with RetroArch's built-in Core Updater, you can download new programs directly as soon as they become available!</p>
                             <a class="btn btn-ra pull-right" href="index.php?page=cores">Learn more about cores</a>
                         </div>
-                <div class="item latest-youtube">
-                    <div class="row">
-                        <div class="col-sm-6"></div>
-                        <div class="col-sm-6">
-                            <h2>Helpful Videos!</h2>
-                            <p>For both developers and users!</p>
-                            <p>On our YouTube channel, you'll find helpful videos for both users and developers. You can subscribe to be informed about our lates videos every day!</p>
-                            <a class="btn btn-ra pull-right" href="https://www.youtube.com/user/Libretro">Go to our YouTube Channel</a>
-                        </div>
-                    </div>
-                </div>        
                     </div>
                 </div>
             </div>
