@@ -72,7 +72,7 @@
                         <ul>
                             <li><a href="https://www.libretro.com/">Libretro Blog</a></li>
                             <li><a href="http://www.lakka.tv/">Lakka OS</a></li>
-                            <li><a href="https://buildbot.libretro.com/web">Web Player</a></li>
+                            <li><a href="https://web.libretro.com">Web Player</a></li>
                             <li><a href="https://hackaday.io/project/20874-gamegirl-part-ii-back-in-the-game">Gamegirl</a></li>
                             <li><a href="https://www.libretro.com/index.php/powered-by-libretro/">Powered by Libretro</a></li>
                             <li><a href="https://www.libretro.com/index.php/mission/">Mission</a></li>
