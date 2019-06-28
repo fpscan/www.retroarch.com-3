@@ -301,8 +301,9 @@
         
          <h1>Latest Video</h1>
 
-        <div class="row">
-<iframe width="1180" height="720" src="https://www.youtube.com/embed?listType=user_uploads&amp;list=Libretro&modestbranding=1&showinfo=0" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="embed-responsive embed-responsive-16by9 video">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed?listType=user_uploads&amp;list=Libretro&modestbranding=1&showinfo=0" frameborder="0" allowfullscreen></iframe>
+                </div>  
         
         <h1>News</h1>
 
