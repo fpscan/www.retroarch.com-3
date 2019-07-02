@@ -255,6 +255,13 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="platform">
+                    <img src="images/steam-link.png">
+                    <h4>Steam Link</h4>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/steam/steamlink/RetroArch.zip">Download (Steam Link)</a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="platform">
                     <img src="images/web.png">
                     <h4>Web Browsers</h4>
                     <a href="https://web.libretro.com/" title="Try with 'Google Chrome' for better performance">Try it online</a>
