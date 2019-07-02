@@ -257,7 +257,8 @@
                 <div class="platform">
                     <img src="images/steam-link.png">
                     <h4>Steam Link</h4>
-                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/steam/steamlink/RetroArch.zip">Download (Steam Link)</a>
+                    <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/steam/steamlink/RetroArch.zip">Download</a>
+                    <a href="https://docs.libretro.com/guides/install-steamlink/">Installation instructions</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
