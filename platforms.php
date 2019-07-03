@@ -258,6 +258,7 @@
                     <img src="images/steam-link.png">
                     <h4>Steam Link</h4>
                     <a href="https://buildbot.libretro.com/stable/<?php echo $version; ?>/steam/steamlink/RetroArch.zip">Download</a>
+                    <a href="https://www.youtube.com/watch?v=ajzlkewES0k">Installation video</a>
                     <a href="https://docs.libretro.com/guides/install-steamlink/">Installation instructions</a>
                 </div>
             </div>
