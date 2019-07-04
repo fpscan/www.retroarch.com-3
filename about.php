@@ -9,8 +9,6 @@
                 <p>RetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, and more!</p>
 
                 <a id="get-ra" href="index.php?page=platforms" class="btn btn-ra btn-lg">Get RetroArch</a>
-                <form action="" method="post"><button type="submit" name="run-ra" class="btn btn-ra btn-lg" title="If you have RetroArch already installed on your Windows PC">Run RetroArch</button></form>
-                <?php if (isset($_POST['run-ra'])) { exec('RetroArch.exe'); } ?>
             </div>
             <div class="col-md-7 col-sm-6">
                 <img id="bg" src="images/bg.png">
