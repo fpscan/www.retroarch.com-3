@@ -3,9 +3,11 @@
         <div class="row">
             <div class="col-md-12 abstract">
                 <h1>Netplay</h1>
-                <p>Host or join a network gaming session.</p>
-                <p>Rediscover the joy of multiplayer games using RetroArch's builtin netplay lobby.</p>
-                <p>You can also use the spectator mode to watch others play.</p>
+                <p>Host or join a network gaming session. Rediscover the joy of multiplayer games using RetroArch's builtin netplay lobby. You can also use the spectator mode to watch others play. Click the Lobby Browser button now to view Netplay Hosts! Don't forget to check out our Netplay document page!
+                </p>
+            <a id="go-np" href="http://lobby.libretro.com" target="_blank" class="btn btn-ra btn-lg">
+            Lobby Browser</a>
+            <a id="go-np-docs" href="https://docs.libretro.com/development/retroarch/netplay/" target="_blank" class="btn btn-ra btn-lg">Check Documentation</a>
             </div>
         </div>
     </div>
